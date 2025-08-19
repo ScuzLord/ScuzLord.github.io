@@ -1,5 +1,0 @@
-{
-  "name": "Gemini Story Visualizer",
-  "description": "An application that uses Gemini to generate a short story from a user's prompt and then creates accompanying illustrations for the story, bringing the narrative to life.",
-  "requestFramePermissions": []
-}
